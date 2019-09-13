@@ -1,2 +1,0 @@
-# PikabuGetHashTagTry
-Created with CodeSandbox
